@@ -12,3 +12,4 @@ A list of interesting, sometimes overlooked, places to look for jobs in terms of
 | Entry Level Jobs | [Entry Level Jobs](https://entryleveljobs.me/?ref=producthunt) |
 | Found.dev | [Found.dev](https://found.dev/) |
 | Match.dev | [Match.dev](https://www.match.dev/developers)
+| OkJob - 4 day week jobs | [OkJob.io](https://www.okjob.io)
